@@ -1,0 +1,28 @@
+div {
+    font-size: 50px;
+    color:white;
+    text-align:center;
+    padding-top: 250px;
+}
+#grad1 {
+    height: 400px;
+    background-image: linear-gradient(0deg, #01262b, #08caec);
+}
+h1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 28px;
+    color: #015a69;
+}
+.title1{
+    float: right;
+    position:inherit;
+    padding-right: 70px;
+}
+h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+    font-style: normal;
+    clear: both;
+}
